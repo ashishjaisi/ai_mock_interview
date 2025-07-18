@@ -63,9 +63,7 @@ export const Footer = () => {
           <div>
             <h3 className="font-bold text-lg mb-4">About Us</h3>
             <p>
-              We are committed to helping you unlock your full potential with
-              AI-powered tools. Our platform offers a wide range of resources to
-              improve your interview skills and chances of success.
+            At AI Mock Interviews, we’re dedicated to helping you build confidence and sharpen your interview skills using AI-driven insights. Our platform simulates real interview scenarios, providing instant feedback to help you improve and succeed. Whether you’re a fresher or a professional, we’re here to help you prepare smarter and perform better.
             </p>
           </div>
 
@@ -88,7 +86,7 @@ export const Footer = () => {
           {/* Fourth Column: Address and Social Media */}
           <div>
             <h3 className="font-bold text-lg mb-4">Contact Us</h3>
-            <p className="mb-4">123 AI Street, Tech City, 12345</p>
+            <p className="mb-4">Pune, India</p>
             <div className="flex gap-4">
               <SocialLink
                 href="https://facebook.com"
