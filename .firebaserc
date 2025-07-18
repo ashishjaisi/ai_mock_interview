@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "yt-ai-mock-interview"
-  }
+    "default": "ai-mock-interview-yt-rea-f89c7",
+    "staging": "ai-mock-interview-yt-rea-f89c7"
+  },
+  "targets": {},
+  "etags": {}
 }
