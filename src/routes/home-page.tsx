@@ -16,10 +16,10 @@ export const HomePage = () => {
             Unlock Your Potential with AI
             </span>
             <span className="text-gray-500 font-extrabold">
-            – Enhance Your Confidence
+            -Enhance Your Confidence
             </span>
             <br />
-            and Perform Better in Interviews.
+            Enhance Your Confidence and Perform Better in Interviews.
           </h2>
 
           <p className="mt-4 text-muted-foreground text-sm">
