@@ -50,7 +50,7 @@ export const HomePage = () => {
           <img
             src="/img/hero_new.jpg"
             alt=""
-            className="w-full h-full object-cover"
+            className="absolute inset-0 w-full h-full object-cover"
           />
 
           <div className="absolute top-4 left-4 px-4 py-2 rounded-md bg-white/40 backdrop-blur-md">
