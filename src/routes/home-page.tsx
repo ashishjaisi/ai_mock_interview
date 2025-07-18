@@ -48,7 +48,7 @@ export const HomePage = () => {
 
         <div className="w-full mt-4 rounded-xl bg-gray-100 h-[420px] drop-shadow-md overflow-hidden relative">
           <img
-            src="/img/hero.jpg"
+            src="/img/hero_new.jpg"
             alt=""
             className="w-full h-full object-cover"
           />
